@@ -1,2 +1,2 @@
-# CLQ-TEST
+# CLQ
 General repository for mascellaneous 
